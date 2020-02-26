@@ -4,4 +4,6 @@ author: "Grace Rogers-Huegel"
 date: "2/26/2020"
 output: html_document
 ---
-[Lab 5](lab5_grh.html)
+- [Lab 3](lab3_grh.html)
+- [Lab 4](lab4_grh.html)
+- [Lab 5](lab5_grh.html)
