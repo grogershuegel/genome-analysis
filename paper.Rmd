@@ -1,0 +1,10 @@
+---
+title: "paper"
+author: "Grace Rogers-Huegel"
+date: "2/26/2020"
+output: html_document
+bibliography: data/bibliography.bib
+---
+Application written in R [@RCoreTeam] using the Shiny framework [@Chang2015].
+
+# References
