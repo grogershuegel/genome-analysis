@@ -1,9 +1,11 @@
 ---
-title: "index"
+title: "Index"
 author: "Grace Rogers-Huegel"
 date: "2/26/2020"
 output: html_document
 ---
+Labs
+
 - [Lab 3](lab3_grh.html)
 - [Lab 4](lab4_grh.html)
 - [Lab 5](lab5_grh.html)
