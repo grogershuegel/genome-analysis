@@ -10,6 +10,9 @@ bibliography: data/bibliography.bib
 - [Lab 3](lab3_grh.html)
 - [Lab 4](lab4_grh.html)
 - [Lab 5](lab5_grh.html)
+- [Lab 7](lab7_grh.html)
+- [Lab 8](lab8_grh.html)
+- [Lab 9](lab9_grh.html)
 
 [@RCoreTeam]
 
