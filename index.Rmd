@@ -14,6 +14,9 @@ bibliography: data/bibliography.bib
 - [Lab 8](lab8_grh.html)
 - [Lab 9](lab9_grh.html)
 - [Lab 10](lab10_grh.html)
+- [Shiny Apps 1 and 2](https://gracerogershuegel.shinyapps.io/Shiny1/)
+- [Shiny App 3](https://gracerogershuegel.shinyapps.io/Shiny2/)
+- [Shiny App 4](https://gracerogershuegel.shinyapps.io/Shiny3/)
 
 [@RCoreTeam]
 

@@ -1,0 +1,12 @@
+name: Shiny1
+title: Shiny1
+username:
+account: gracerogershuegel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2276195
+bundleId: 3128617
+url: https://gracerogershuegel.shinyapps.io/Shiny1/
+when: 1589139309.33975
+asMultiple: FALSE
+asStatic: FALSE

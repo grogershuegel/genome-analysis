@@ -1,0 +1,12 @@
+name: Shiny3
+title: Shiny3
+username:
+account: gracerogershuegel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2276507
+bundleId: 3128837
+url: https://gracerogershuegel.shinyapps.io/Shiny3/
+when: 1589144408.26355
+asMultiple: FALSE
+asStatic: FALSE
